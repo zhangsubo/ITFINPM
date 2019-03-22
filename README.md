@@ -27,6 +27,16 @@
    * commit 写 add 文件名
      * add 5G大变局，激荡二十年-2019年通信行业投资策略-20181204-安信证券.pdf
 
+如果无法查找到具体发布日期可以用上传当天来
+
+
+
+## 感谢
+
+感谢以下用户为本资料库提供帮助：
+
+<https://github.com/zhangsubo/ITFINPM/graphs/contributors>
+
 ## 目录
 
 * 保险
